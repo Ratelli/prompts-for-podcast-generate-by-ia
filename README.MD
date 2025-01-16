@@ -18,6 +18,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Audio gerado pela elevenLabs
 - Audio parcial do e-book criado nas aulas da DIO
 
-<a href="https://github.com/Ratelli/prompts-recipe-to-create-a-ebook/blob/main/E-book%20Bootcamp%20DIO%20e%20CAIXA.pdf" title="View PDF now"> :sound: 📕Clique aqui para ler o e-book na íntegra.</a>
+<a href="https://github.com/Ratelli/prompts-recipe-to-create-a-ebook/blob/main/E-book%20Bootcamp%20DIO%20e%20CAIXA.pdf" title="View PDF now"> 🔉Clique aqui para ouvir um pequeno trecho.</a>
 
 <a href="https://github.com/Ratelli/prompts-recipe-to-create-a-ebook/blob/main/E-book%20Bootcamp%20DIO%20e%20CAIXA.pdf" title="View PDF now"> 📕Clique aqui para ler o e-book na íntegra.</a>
